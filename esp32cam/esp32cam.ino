@@ -12,9 +12,8 @@ WebServer server(80);
 // ======================
 // Definir redes Wi-Fi disponíveis
 // ======================
-NetworkModel networks[] = {
-    NetworkModel("FamiliaBuscape", "Elephant33", IPAddress(192,168,0,20), IPAddress(192,168,0,1), IPAddress(255,255,255,0)),
-    NetworkModel("OTHER_WIFI", "OtherPass", IPAddress(0,0,0,0), IPAddress(0,0,0,0), IPAddress(0,0,0,0)) // rede com DHCP
+NetworkModel networks[] = {                                 // exemplo de ip, gateway e subnet (modifique-os)
+    NetworkModel("ssid da sua rede", "a senha da sua rede", IPAddress(192,168,0,20), IPAddress(192,168,0,1), IPAddress(255,255,255,0))
 };
 
 // Quantidade de redes definidas
