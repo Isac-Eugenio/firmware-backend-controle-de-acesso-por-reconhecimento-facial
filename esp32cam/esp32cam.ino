@@ -8,6 +8,7 @@ esp32cam::Resolution initialResolution;
 // Servidor web rodando na porta 80
 WebServer server(80);
 
+
 // ======================
 // Definir redes Wi-Fi disponíveis
 // ======================
