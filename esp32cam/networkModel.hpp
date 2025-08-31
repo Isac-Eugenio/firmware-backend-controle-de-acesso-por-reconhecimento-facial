@@ -4,6 +4,7 @@
 #include <Arduino.h>  // Biblioteca base do Arduino, necessária para tipos como String
 #include <WiFi.h>     // Biblioteca do ESP32 para IPAddress e configuração de Wi-Fi
 
+
 // ======================
 // Estrutura para armazenar dados de uma rede Wi-Fi
 // ======================

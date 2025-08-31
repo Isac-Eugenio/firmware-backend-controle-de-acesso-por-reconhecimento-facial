@@ -12,14 +12,6 @@ Este exemplo roda na **placa ESP32-CAM Ai-Thinker** e utiliza a biblioteca [ESP3
   - Se estiver acessando um stream MJPEG no navegador, clique no botão *Stop* para liberar a conexão.
   - Caso contrário, não será possível abrir outra página ou visualizar outra imagem até liberar a conexão.
 
-
-## foto do modelo do Esp32cam(Ai thinker)
-
-
-![ESP32-CAM Ai-Thinker](./imagem.jpeg)
-
-foto do esp32cam
-
 ---
 
 ## 📝 Observações importantes
@@ -30,6 +22,16 @@ foto do esp32cam
 | **Wi-Fi** | Modifique o SSID e a senha da sua rede antes de enviar o código. |
 | **Biblioteca** | Este exemplo usa a biblioteca ESP32-CAM desenvolvida por **Yoursunny**. |
 | **Hardware** | Módulo **Ai-Thinker**, com pinos configurados corretamente. |
+
+---
+
+## foto do modelo do Esp32cam(Ai thinker)
+
+
+![ESP32-CAM Ai-Thinker](./imagem.jpeg)
+
+foto do esp32cam
+
 
 ---
 

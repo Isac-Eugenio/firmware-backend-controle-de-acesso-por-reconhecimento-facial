@@ -73,6 +73,7 @@ static void serveStill(bool wantBmp) {
   digitalWrite(FLASH_PIN, LOW); // Desliga o flash após captura
 }
 
+
 // Função para transmitir vídeo em streaming (mantém o flash ligado)
 static void serveMjpeg() {
   Serial.println("MJPEG streaming begin");
